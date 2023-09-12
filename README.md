@@ -1,7 +1,7 @@
 # impact-coach
 
 ## Description
-An AI driven coach from Impact Suite. built using Python, OpenAI, and Langchain. 
+An AI coach from Impact Suite. built using Python, OpenAI, and Langchain. 
 
 ## Installation
 
