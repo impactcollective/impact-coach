@@ -1,0 +1,9 @@
+*.pyc
+*.pyo
+*.db
+*.log
+*.swp
+
+# Ignore the virtual environment
+myenv/
+```
